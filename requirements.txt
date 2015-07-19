@@ -1,0 +1,7 @@
+greenlet==0.4.7
+jsonschema==2.5.1
+motor==0.4.1
+pony==0.6.1
+psycopg2==2.6.1
+pymongo==2.8
+tornado==4.2.1
